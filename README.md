@@ -6,7 +6,7 @@ simple starter website for chris
 Hi Chris!  You're a CS major, and that means you should have your own site to play around with.  This is a basic guide to ezpz web development.  There are a bunch of things you can use, but here's what I use!
 
 Domain:  I registered chriscebula.com for you.  For domains, namecheap.com tends to be the cheapest place to get one. 
-	<b>GOAL</b>:  Create a namecheap account so that I can transfer the domain to you!
+	<strong>GOAL</strong>:  Create a namecheap account so that I can transfer the domain to you!
 
 Hosting:  Even though you've got a domain, you probably want to put something on it.  There are several different options.  Personally, I'd go with Amazon Web Services.  If you register as a student with Amazon Web Services, you get a free micro-instance (which is enough to run your website year-round without paying a cent!).  
 	GOAL:  Create a student AWS account.
