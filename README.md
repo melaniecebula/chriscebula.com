@@ -1,13 +1,13 @@
-chriscebula.com
+alexcebula.com
 ===============
 
-simple starter website for chris
+simple starter website for alex
 
-Hi Chris!  You're a CS major, and that means you should have your own site to play around with.  This is a basic guide to ezpz web development.  There are a bunch of things you can use, but here's what I use!
+Hi Alex!  You're a CS major, and that means you should have your own site to play around with.  This is a basic guide to ezpz web development.  There are a bunch of things you can use, but here's what I use!
 
 For reference, this repo sets up a basic website using node.js and express (ejs).
 
-Domain:  I registered chriscebula.com for you.  For domains, namecheap.com tends to be the cheapest place to get one.
+Domain:  I registered alexcebula.com for you.  For domains, namecheap.com tends to be the cheapest place to get one.
 <br>
 	<strong>GOAL</strong>:  Create a namecheap account so that I can transfer the domain to you!
 
