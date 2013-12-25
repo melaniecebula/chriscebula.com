@@ -1,0 +1,10 @@
+{
+  "name": "chriscebula.com",
+  "description": "chris's site",
+  "private": true,
+  "dependencies": {
+    "express": "3.0.6",
+    "ejs": "0.8.3"
+    }
+}
+

@@ -20,3 +20,5 @@ Server:  Okay!  You've got a *really* basic page, but how do you get people to s
 	<strong>GOAL</strong>:  change your .html file to .ejs and have it load on '/' from your server.
 
 
+TODO:  set up node structure (server.js, package.json, static (cs js img), views (index.html), 
+install node and npm, create package.json (for dependencies), run npm install the dependencies
